@@ -27,12 +27,12 @@ The current design uses an off-white editorial palette, restrained HUD-inspired 
 
 ```text
 ton87.github.io/
-├── .gitignore
-├── .nojekyll
-├── README.md
-├── index.html
-├── script.js
-└── styles.css
+|-- .gitignore
+|-- .nojekyll
+|-- README.md
+|-- index.html
+|-- script.js
+`-- styles.css
 ```
 
 ## Tech Stack
